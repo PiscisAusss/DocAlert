@@ -28,5 +28,9 @@
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>NSCameraUsageDescription</key>
+	<string>DocAlert folosește camera ca să atașezi o poză la document.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>DocAlert accesează galeria ca să atașezi o poză la document.</string>
 </dict>
 </plist>
